@@ -5,7 +5,7 @@ METHODOLOGY : The target population of the GSS is adults (18+) living in househo
 
 SCOPE OF INFERENCE : The dataset consists of 57061 observations and 114 variables. The dataset is only an observational study. We can only make correlation study, associations based inferences. We cannot establish any causality from the dataset.
 
-## Part 2: Research question
+# Research question
 
 The aims of the project are to 
 
